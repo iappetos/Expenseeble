@@ -1,0 +1,202 @@
+/* 
+  Localizable.strings
+  ExpenseWatch
+
+  Created by planB on 1/10/18.
+  Copyright © 2018 Ioannis. All rights reserved.
+*/
+
+
+//Main
+"titleOfMainViewForIncome" = "Nouveau";
+"buttonToCard" = "Carte";
+"buttonToPayCash" = "Payer";
+"placeholderCash" = "en espèces";
+"placeholderAmount" = "montant";
+"noteOptional" = "Note (optionnel)";
+"noteForRepeated" = "Note";
+"buttonForPeriodForDays" = "journées";
+"buttonForPeriodForOneDay" = "journée";
+"buttonForPeriodForWeeks" = "semaines";
+"buttonForPeriodForOneWeek" = "semaine";
+"buttonForPeriodForMonths" = "mois";
+"buttonForPeriodForOneMonth" = "mois";
+"buttonForPeriodForYears" = "années";
+"buttonForPeriodForOneYear" = "année";
+"everyDayFor" = "Chaque jour, pour";
+"everyWeekFor" = "Chaque  semaine, pour";
+"everyMonthFor" = "Chaque mois, pour";
+"everyYearFor" = "Chaque année, pour";
+"LastStoredExpense:" = "Dernière entrée:";
+"attentionAlert" = "Attention!";
+"fieldWithAmountofCost" = "Le champ avec le montant du coût doit être rempli.";
+"Ok" = "D'accord";
+"forrepeatedcostsbothFields" = "Pour les coûts répétés complétez les deux champs(coût et remarque).";
+"overallCost" = "Coût total:";
+"dailyfor" = "Tous les jours pour ";
+"weeklyfor" = "Hebdomadaire pour ";
+"monthlyfor" = "Mensuel pour ";
+"yearlyfor" = "Annuel pour ";
+"forRepeatedcostsRepetitions" = "Pour les coûts répétés, vous devez spécifier le nombre de répétitions.";
+"spent80ofsalary" = "Vous avez passé 80% de votre salaire.";
+"spentAllofsalary" = "Vous avez passé toute votre salaire.";
+"Daily" = "Tous les jours ";
+"Weekly" = "Hebdomadaire ";
+"Monthly" = "Mensuel ";
+"Yearly" = "Annuel ";
+"PleaseRestartApp" = "S'il vous plaît, redémarrer l'application pour charger la nouvelle langue complètement.";
+"segmentTitleOnce" = "Une fois";
+"segmentTitleDaily" = "Tous les jours";
+"segmentTitleWeekly" = "Hebdomadaire";
+"segmentTitleMonthly" = "Mensuel";
+"segmentTitleYearly" = "Annuel";
+"List" = "Liste";
+"Settings" = "Réglages";
+"Report" = "Rapport";
+"alertBodyForDaily" = "Pour des raisons pratiques cette dépense sera conservée pendant 1825 jours (5 ans).";
+"alertBodyForDailyLast" = "En 5 ans, s'il vous plaît renouveler ce coût si nécessaire.";
+"alertBodyForDailyEveryWeek" = "Pour des raisons pratiques cette dépense sera conservé pendant 260 semaines (5 ans).";
+"alertBodyForDailyEveryWeekLast" = "En 5 ans, s'il vous plaît renouveler ce coût si nécessaire.";
+"alertBodyForDailyEveryMonth" = "Pour des raisons pratiques cette dépense sera conservé pendant 60 mois (5 ans).";
+"alertBodyForDailyEveryMonthLast" = "En 5 ans, s'il vous plaît renouveler ce coût si nécessaire.";
+"alertBodyForDailyEveryYear" = "Pour des raisons pratiques cette dépense sera conservé pendant 5 ans.";
+"alertBodyForDailyEveryYearLast" = "En 5 ans, s'il vous plaît renouveler ce coût si nécessaire.";
+"alertBodyForWeekly" = "Pour des raisons pratiques cette dépense sera conservée pendant 520 semaines (10 ans).";
+"alertBodyForWeeklyLast" = "En 10 ans, s'il vous plaît renouveler ce coût si nécessaire.";
+"alertBodyForWeeklyEveryMonth" = "Pour des raisons pratiques cette dépense sera conservé pendant 120 mois (10 ans).";
+"alertBodyForWeeklyEveryMonthLast" = "En 10 ans, s'il vous plaît renouveler ce coût si nécessaire.";
+"alertBodyForWeeklyEveryYear" = "Pour des raisons pratiques cette dépense sera conservé pendant 10 ans.";
+"alertBodyForWeeklyEveryYearLast" = "En 10 ans, s'il vous plaît renouveler ce coût si nécessaire.";
+"alertBodyForMonthly" = "Pour des raisons pratiques cette dépense sera conservé pendant 360 mois (30 ans).";
+"alertBodyForMonthlyLast" = "En 30 ans, s'il vous plaît renouveler ce coût si nécessaire.";
+"alertBodyForMonthlyEveryYear" = "Pour des raisons pratiques cette dépense sera conservé pendant 30 ans.";
+"alertBodyForMonthlyEveryYearLast" = "En 30 ans, s'il vous plaît renouveler ce coût si nécessaire.";
+"alertBodyForYearly" = "Pour des raisons pratiques cette dépense sera conservé pendant 100 ans.";
+"alertBodyForYearlyLast" = "En 100 ans, s'il vous plaît renouveler ce coût si nécessaire.";
+//List
+"AllinListSegment" = "Tout";
+"AinListSegment" = "A";
+"BinListSegment" = "B";
+"CinListSegment" = "C";
+"TodayInPeriodSegment" = "Aujourd'hui";
+"WeekInPeriodSegment" = "Semaine";
+"MonthInPeriodSegment" = "Moins";
+"QuarterInPeriodSegment" = "Trimestre";
+"YearInPeriodSegment" = "Année";
+"ManuallyInPeriodSegment" = "Manuellement";
+"dateOrderAlert" = "Ordre de date incorrect. S'il vous plaît changer les dates choisies en conséquence.";
+"dailyNote" = "Tous les jours";
+"weeklyNote" = "Hebdomadaire";
+"monthlyNote" = "Mensuel";
+"yearlyNote" = "Annuel";
+"fixCostAlert" = "Coût répété";
+"whatFixToDelete" = "Que voulez-vous supprimer?";
+"justOne" = "Juste celui-là";
+"futureFix" = "Coûts futurs répétées";
+"totalFix" = " Coût total répété";
+"cancelFixDeletion" = "Annuler";
+//Report
+"reportTitle" = "Rapport";
+"goToStatistics" = "Statistiques";
+"periodShowingInReport" = "Période:";
+"profileOverBars" = "Profil des Dépenses";
+"totalCostInReport" = "Coût Total";
+"cashInReport" = "En espèces";
+"cardInReport" = "Carte";
+"overTextFieldSalary" = "Salaire";
+"overTextFieldIncome" = "Le revenu de la période";
+"storeNewSalary" = "Enregistrer";
+"deductCost" = "Déduire coût";
+"placeHolderStored" = "enregistré: ";
+"placeHolderPaid" = "Salaire versé";
+"placeHolderAmount" = "montant gagné";
+"outcome" = "Résultat:";
+"saved" = "Sauvé:";
+"missing" = "Manquant:";
+"balanced" = "Équilibrée :";
+"fillInfieldOfSalary"= "Le champ de SALAIRE doit être rempli pour une nouvelle valeur à enregistré.";
+"pleaseStoreSalary" = "S'il vous plaît enregistrer un salaire afin d'avoir une rétroaction instantanée du salaire restant lorsque vous entrez un nouveau coût ou passer en mode revenu.";
+"notAvailableInFreeVersion" = "Les statistiques ne sont pas disponibles en version gratuite";
+"iUnderstand" = "Je comprand";
+"advantageKiosk1a" = "Enregistrez les dépenses répétées en un seul clic et";
+"advantageKiosk1b" = "connaître en permanence leur coût global";
+"advantageKiosk2a" = "Accédez au rapport statistique et gagnez";
+"advantageKiosk2b" = "une meilleure compréhension de vos habitudes de dépenses";
+//Statistics
+"statisticsTitle" = "Statistiques";
+"periodShowingInStatistics" = "Période:";
+"overGreatestExpenseOf" = "Le plus grand dépense de";
+"allinGreatest" = "Tout";
+"segmentCostStat" = "Coût";
+"segmentDayStat" = "Journée";
+"segmentWeekStat" = "Semaine";
+"segmentMonthStat" = "Mois";
+"segmentYearStat" = "Année";
+"average" = "Moyenne";
+"median" = "Médian";
+"costRed" = " coût de cette période";
+"dayRed" = " coût par jour";
+"weekRed" = " coût par semaine";
+"monthRed" = " coût par mois";
+"yearRed" = " coût par année";
+"most" = "Plus";
+"generous" = "gaspilleur";
+"economic" = "économique";
+"daySmall" = "journée";
+"weekSmall" = "semaine";
+"monthSmall" = "mois";
+"yearSmall" = "Année";
+"generousMan" = "gaspilleur";
+"generousThing" = "gaspilleur";
+"economicMan" = "économique";
+"economicThing" = "économique";
+"monthSmallOristiki" = "mois";
+//PopUp
+"cashInPopUp" = "En espèces";
+"cardInPopUp" = "Carte";
+"cancelPopUp" = "Annuler";
+"savePopUp" = "Sauvegarder";
+"theFieldOfCostInPopUp" = "Le terrain avec le montant des frais doit être rempli.";
+//Select
+"selectTitle" = "Personnaliser Catégories";
+"saveSelections" = "Enregistrer";
+"cancelSelections" = "Annuler";
+"selectCategoryTitle" = "Sélectionner titre pour chaque catégorie en ";
+"selectIcon" = "  Sélectionnez l'icône pour chaque catégorie";
+"contactUs" = "Contactez nous";
+"upgrade" = "Améliorer";
+"rateThisApp" = "Rate App";
+"upgradeAlert" = "Améliorer!!!";//upgrade/?????
+"upgradeAdvantage0" = "-Save time storing repeated costs with just one tap for daily, weekly, monthly and yearly fix costs.";
+"upgradeAdvantage1" = "-Make smart desicions knowing in advanve the overall cost of your daily habits, monthly credits or any other repeated costs.";
+"upgradeAdvantage2" = "-Enlighten your understanding of your money management accessiing statistical measures of your expenses and gaining a clear picture of your spending habits at a glance.";
+"noThanksAction" = "No, merci.";
+"upgradeAction" = "Je veux to upgrade!!!";
+"costOfUpgrading" = "... seulement 3.90€";
+
+"category1" = "Affaires";
+"category2" = "Glow";
+"category3" = "Grow";
+"category4" = "Éducation";
+"category5" = "Divertissemen";
+"category6" = "Famille";
+"category7" = "Fix";
+"category8" = "Amusement;";
+"category9" = "Accueil";
+"category10" = "Obligatoire";
+"category11" = "Moi";
+"category12" = "Optionnel";
+"category13" = "Personnel";
+"category14" = "Survivre";
+"iappetosThanks" = "Expenseeble est déjà mis à jour. Merci d'utiliser notre application!";
+//Languages
+"saveLanguage" = "Sauvegarder";
+"cancelLanguage" = "Annuler";
+"NoteToRestartApp" = "Si vous changez la langue, l'application doit être redémarré pour charger complètement la nouvelle langue.";
+"restartAppLanguage" = "Veuillez redémarrer l'application afin de charger complètement la nouvelle langue";
+
+//Kiosk
+"restorePurchase" = "Restaurer";
+"connectionRequired" = "Connexion requise!!!";
+"waitThePrices" = "Veuillez attendre que les prix soient chargés ou connectez-vous à Internet.";
+"onlyFor" = "seulement pour ";

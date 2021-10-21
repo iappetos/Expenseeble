@@ -1,0 +1,360 @@
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "0Cd-iz-92e"; */
+"0Cd-iz-92e.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1CD-Qe-3Ip"; */
+"1CD-Qe-3Ip.text" = "Label";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "2MS-Ej-fH1"; */
+"2MS-Ej-fH1.text" = "Home";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "41b-7R-ecK"; */
+"41b-7R-ecK.title" = "Save";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4wH-En-cj5"; */
+"4wH-En-cj5.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5Uw-IF-48O"; */
+"5Uw-IF-48O.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Average"; ObjectID = "676-PQ-52I"; */
+"676-PQ-52I.normalTitle" = "Average";
+
+/* Class = "UILabel"; text = "Period:"; ObjectID = "72z-Of-g3o"; */
+"72z-Of-g3o.text" = "Period:";
+
+/* Class = "UILabel"; text = "CostC"; ObjectID = "7uZ-cX-vTn"; */
+"7uZ-cX-vTn.text" = "CostC";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8Yf-de-au2"; */
+"8Yf-de-au2.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8fO-Ws-ut8"; */
+"8fO-Ws-ut8.text" = "Label";
+
+/* Class = "UITextField"; text = "Glow"; ObjectID = "8gY-mC-m58"; */
+"8gY-mC-m58.text" = "Grow";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "91V-Dm-IzF"; */
+"91V-Dm-IzF.text" = "%";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "98z-6V-DLa"; */
+"98z-6V-DLa.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "of All"; ObjectID = "A0Z-i4-yLM"; */
+"A0Z-i4-yLM.normalTitle" = "of All";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "Ab1-cW-mtj"; */
+"Ab1-cW-mtj.text" = "%";
+
+/* Class = "UILabel"; text = " Cost"; ObjectID = "Apk-31-piQ"; */
+"Apk-31-piQ.text" = " Cost";
+
+/* Class = "UILabel"; text = "Personal"; ObjectID = "BZJ-K3-cPn"; */
+"BZJ-K3-cPn.text" = "Personal";
+
+/* Class = "UILabel"; text = "Business"; ObjectID = "D9p-xh-bZ2"; */
+"D9p-xh-bZ2.text" = "Business";
+
+/* Class = "UINavigationItem"; title = "Report"; ObjectID = "EPR-kb-emR"; */
+"EPR-kb-emR.title" = "Report";
+
+/* Class = "UIButton"; normalTitle = "Days"; ObjectID = "EvG-LY-5Sm"; */
+"EvG-LY-5Sm.normalTitle" = "Days";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FAQ-ug-Xqt"; */
+"FAQ-ug-Xqt.text" = "Label";
+
+/* Class = "UILabel"; text = "Total Cost:"; ObjectID = "Gai-j8-TOC"; */
+"Gai-j8-TOC.text" = "Total Cost:";
+
+/* Class = "UIButton"; normalTitle = "A"; ObjectID = "GjV-eX-MGJ"; */
+"GjV-eX-MGJ.normalTitle" = "A";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HOE-gm-BCt"; */
+"HOE-gm-BCt.text" = "Label";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "KA5-jc-Mym"; */
+"KA5-jc-Mym.text" = "0%";
+
+/* Class = "UISegmentedControl"; KOy-tB-o42.segmentTitles[0] = "   All     "; ObjectID = "KOy-tB-o42"; */
+"KOy-tB-o42.segmentTitles[0]" = "   All     ";
+
+/* Class = "UISegmentedControl"; KOy-tB-o42.segmentTitles[1] = "A"; ObjectID = "KOy-tB-o42"; */
+"KOy-tB-o42.segmentTitles[1]" = "A";
+
+/* Class = "UISegmentedControl"; KOy-tB-o42.segmentTitles[2] = "B"; ObjectID = "KOy-tB-o42"; */
+"KOy-tB-o42.segmentTitles[2]" = "B";
+
+/* Class = "UISegmentedControl"; KOy-tB-o42.segmentTitles[3] = "C"; ObjectID = "KOy-tB-o42"; */
+"KOy-tB-o42.segmentTitles[3]" = "C";
+
+/* Class = "UITextField"; text = "Survive"; ObjectID = "KbZ-Cf-wHu"; */
+"KbZ-Cf-wHu.text" = "Survive";
+
+/* Class = "UILabel"; text = "50%"; ObjectID = "KtE-H0-SRu"; */
+"KtE-H0-SRu.text" = "50%";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "LCq-hs-Me3"; */
+"LCq-hs-Me3.text" = "%";
+
+/* Class = "UIButton"; normalTitle = "Contact us"; ObjectID = "Lp8-xl-6EZ"; */
+"Lp8-xl-6EZ.normalTitle" = "Contact us";
+
+/* Class = "UILabel"; text = "75%"; ObjectID = "N1I-De-VfA"; */
+"N1I-De-VfA.text" = "75%";
+
+/* Class = "UILabel"; text = "Size"; ObjectID = "N7y-np-GsH"; */
+"N7y-np-GsH.text" = "Size";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "NpS-97-kBm"; */
+"NpS-97-kBm.text" = "name";
+
+/* Class = "UILabel"; text = "Day"; ObjectID = "Org-CU-rcC"; */
+"Org-CU-rcC.text" = "Day";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "Owi-wm-4il"; */
+"Owi-wm-4il.title" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "R0D-O7-3b1"; */
+"R0D-O7-3b1.normalTitle" = "English";
+
+/* Class = "UILabel"; text = "Outcome:"; ObjectID = "Ra6-0c-1J2"; */
+"Ra6-0c-1J2.text" = "Outcome:";
+
+/* Class = "UILabel"; text = "Home:"; ObjectID = "TKe-7D-218"; */
+"TKe-7D-218.text" = "Home:";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "TO5-wU-7AR"; */
+"TO5-wU-7AR.normalTitle" = "Save";
+
+/* Class = "UIBarButtonItem"; title = "List"; ObjectID = "WEm-rF-EsB"; */
+"WEm-rF-EsB.title" = "List";
+
+/* Class = "UILabel"; text = "Personal:"; ObjectID = "X1D-gp-aWL"; */
+"X1D-gp-aWL.text" = "Personal:";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "Xat-E9-6fW"; */
+"Xat-E9-6fW.text" = "%";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "XrT-rb-Mxj"; */
+"XrT-rb-Mxj.text" = "-";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XsD-Dw-CTo"; */
+"XsD-Dw-CTo.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xxm-5a-2Zx"; */
+"Xxm-5a-2Zx.text" = "Label";
+
+/* Class = "UISegmentedControl"; Y01-az-0vL.segmentTitles[0] = "Today"; ObjectID = "Y01-az-0vL"; */
+"Y01-az-0vL.segmentTitles[0]" = "Today";
+
+/* Class = "UISegmentedControl"; Y01-az-0vL.segmentTitles[1] = "Week"; ObjectID = "Y01-az-0vL"; */
+"Y01-az-0vL.segmentTitles[1]" = "Week";
+
+/* Class = "UISegmentedControl"; Y01-az-0vL.segmentTitles[2] = "Month"; ObjectID = "Y01-az-0vL"; */
+"Y01-az-0vL.segmentTitles[2]" = "Month";
+
+/* Class = "UISegmentedControl"; Y01-az-0vL.segmentTitles[3] = "Quarter"; ObjectID = "Y01-az-0vL"; */
+"Y01-az-0vL.segmentTitles[3]" = "Quarter";
+
+/* Class = "UISegmentedControl"; Y01-az-0vL.segmentTitles[4] = "Year"; ObjectID = "Y01-az-0vL"; */
+"Y01-az-0vL.segmentTitles[4]" = "Year";
+
+/* Class = "UISegmentedControl"; Y01-az-0vL.segmentTitles[5] = "Manually"; ObjectID = "Y01-az-0vL"; */
+"Y01-az-0vL.segmentTitles[5]" = "Manually";
+
+/* Class = "UILabel"; text = "Business:"; ObjectID = "Yba-ZH-9uL"; */
+"Yba-ZH-9uL.text" = "Business:";
+
+/* Class = "UITextField"; placeholder = "Note"; ObjectID = "ZOp-yX-QVO"; */
+"ZOp-yX-QVO.placeholder" = "Note";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZOy-Jo-p7d"; */
+"ZOy-Jo-p7d.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Zk3-nG-nEI"; */
+"Zk3-nG-nEI.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Cost"; ObjectID = "aLy-Lb-AxQ"; */
+"aLy-Lb-AxQ.placeholder" = "Cost";
+
+/* Class = "UIButton"; normalTitle = "Rate this App"; ObjectID = "ahM-6V-C5Q"; */
+"ahM-6V-C5Q.normalTitle" = "Rate this App";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "aqj-gd-ioY"; */
+"aqj-gd-ioY.text" = "date";
+
+/* Class = "UILabel"; text = "Personal"; ObjectID = "bep-Ir-Oeb"; */
+"bep-Ir-Oeb.text" = "Survive";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "c2T-fG-B54"; */
+"c2T-fG-B54.normalTitle" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "cash"; ObjectID = "c74-qi-iHz"; */
+"c74-qi-iHz.placeholder" = "cash";
+
+/* Class = "UILabel"; text = "CostA"; ObjectID = "cKe-TN-0fD"; */
+"cKe-TN-0fD.text" = "CostA";
+
+/* Class = "UILabel"; text = "Selected Language:"; ObjectID = "cWZ-Nu-PNd"; */
+"cWZ-Nu-PNd.text" = "Tap on title or choose from the pickers below:";
+
+/* Class = "UITextField"; text = "Glow"; ObjectID = "cjV-1z-2jh"; */
+"cjV-1z-2jh.text" = "Glow";
+
+/* Class = "UITextField"; placeholder = "Note (Optional)"; ObjectID = "cuM-Rv-Fgl"; */
+"cuM-Rv-Fgl.placeholder" = "Note (Optional)";
+
+/* Class = "UILabel"; text = "CostA"; ObjectID = "d21-89-l5h"; */
+"d21-89-l5h.text" = "CostA";
+
+/* Class = "UIButton"; normalTitle = "Generous"; ObjectID = "d85-dD-DfS"; */
+"d85-dD-DfS.normalTitle" = "Generous";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "dF5-kh-gGS"; */
+"dF5-kh-gGS.text" = "100%";
+
+/* Class = "UIBarButtonItem"; title = "Statistics"; ObjectID = "eJ3-75-8A6"; */
+"eJ3-75-8A6.title" = "Statistics";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eOC-B1-tGg"; */
+"eOC-B1-tGg.text" = "Label";
+
+/* Class = "UILabel"; text = "Greatest Expense"; ObjectID = "eaX-ZE-7hW"; */
+"eaX-ZE-7hW.text" = "Greatest Expense";
+
+/* Class = "UIButton"; normalTitle = "Pay"; ObjectID = "ecO-Gj-uzg"; */
+"ecO-Gj-uzg.normalTitle" = "Pay";
+
+/* Class = "UILabel"; text = "for"; ObjectID = "fFG-VI-eKJ"; */
+"fFG-VI-eKJ.text" = "for";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fWh-1A-lgh"; */
+"fWh-1A-lgh.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fWn-fp-nlO"; */
+"fWn-fp-nlO.text" = "Label";
+
+/* Class = "UILabel"; text = "Most"; ObjectID = "gyb-dF-ckc"; */
+"gyb-dF-ckc.text" = "Most";
+
+/* Class = "UILabel"; text = "CostB"; ObjectID = "iKj-ud-Jej"; */
+"iKj-ud-Jej.text" = "CostB";
+
+/* Class = "UISegmentedControl"; ikL-DX-7is.segmentTitles[0] = "Once"; ObjectID = "ikL-DX-7is"; */
+"ikL-DX-7is.segmentTitles[0]" = "Once";
+
+/* Class = "UISegmentedControl"; ikL-DX-7is.segmentTitles[1] = "Daily"; ObjectID = "ikL-DX-7is"; */
+"ikL-DX-7is.segmentTitles[1]" = "Daily";
+
+/* Class = "UISegmentedControl"; ikL-DX-7is.segmentTitles[2] = "Weekly"; ObjectID = "ikL-DX-7is"; */
+"ikL-DX-7is.segmentTitles[2]" = "Weekly";
+
+/* Class = "UISegmentedControl"; ikL-DX-7is.segmentTitles[3] = "Monthly"; ObjectID = "ikL-DX-7is"; */
+"ikL-DX-7is.segmentTitles[3]" = "Monthly";
+
+/* Class = "UISegmentedControl"; ikL-DX-7is.segmentTitles[4] = "Yearly"; ObjectID = "ikL-DX-7is"; */
+"ikL-DX-7is.segmentTitles[4]" = "Yearly";
+
+/* Class = "UIButton"; normalTitle = "A"; ObjectID = "iuh-12-P0h"; */
+"iuh-12-P0h.normalTitle" = "A";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "iy3-hM-5ds"; */
+"iy3-hM-5ds.text" = "-";
+
+/* Class = "UILabel"; text = "Cash"; ObjectID = "jNU-1o-6jh"; */
+"jNU-1o-6jh.text" = "Cash";
+
+/* Class = "UILabel"; text = "Period:"; ObjectID = "lbq-Rr-SEl"; */
+"lbq-Rr-SEl.text" = "Period:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "m1h-oo-hTM"; */
+"m1h-oo-hTM.text" = "Label";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "mdi-7G-oZu"; */
+"mdi-7G-oZu.text" = "Grow";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mj6-zc-sKt"; */
+"mj6-zc-sKt.text" = "Label";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "mv8-QZ-bCr"; */
+"mv8-QZ-bCr.text" = "%";
+
+/* Class = "UILabel"; text = "CostB"; ObjectID = "nAF-y1-TQs"; */
+"nAF-y1-TQs.text" = "CostB";
+
+/* Class = "UISegmentedControl"; nG1-f0-Dz0.segmentTitles[0] = "Cost"; ObjectID = "nG1-f0-Dz0"; */
+"nG1-f0-Dz0.segmentTitles[0]" = "Cost";
+
+/* Class = "UISegmentedControl"; nG1-f0-Dz0.segmentTitles[1] = "Day"; ObjectID = "nG1-f0-Dz0"; */
+"nG1-f0-Dz0.segmentTitles[1]" = "Day";
+
+/* Class = "UISegmentedControl"; nG1-f0-Dz0.segmentTitles[2] = "Week"; ObjectID = "nG1-f0-Dz0"; */
+"nG1-f0-Dz0.segmentTitles[2]" = "Week";
+
+/* Class = "UISegmentedControl"; nG1-f0-Dz0.segmentTitles[3] = "Month"; ObjectID = "nG1-f0-Dz0"; */
+"nG1-f0-Dz0.segmentTitles[3]" = "Month";
+
+/* Class = "UISegmentedControl"; nG1-f0-Dz0.segmentTitles[4] = "Year"; ObjectID = "nG1-f0-Dz0"; */
+"nG1-f0-Dz0.segmentTitles[4]" = "Year";
+
+/* Class = "UINavigationItem"; title = "Customize Categories"; ObjectID = "nTn-od-4Tc"; */
+"nTn-od-4Tc.title" = "Customize Categories";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nhO-4X-x4a"; */
+"nhO-4X-x4a.text" = "Label";
+
+/* Class = "UILabel"; text = "Period's Income"; ObjectID = "niQ-dN-zTd"; */
+"niQ-dN-zTd.text" = "Period's Income";
+
+/* Class = "UILabel"; text = "Cash:"; ObjectID = "nuO-Hh-e1o"; */
+"nuO-Hh-e1o.text" = "Cash:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pc9-zb-yfe"; */
+"pc9-zb-yfe.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "qPm-1F-hax"; */
+"qPm-1F-hax.normalTitle" = "Save";
+
+/* Class = "UITextField"; placeholder = "amount earned"; ObjectID = "r10-ws-GpV"; */
+"r10-ws-GpV.placeholder" = "amount earned";
+
+/* Class = "UILabel"; text = "25%"; ObjectID = "rQ3-3p-aa8"; */
+"rQ3-3p-aa8.text" = "25%";
+
+/* Class = "UILabel"; text = "Profile of Expenses"; ObjectID = "riI-sC-oih"; */
+"riI-sC-oih.text" = "Profile of Expenses";
+
+/* Class = "UILabel"; text = "Business"; ObjectID = "t1D-BN-Ffe"; */
+"t1D-BN-Ffe.text" = "Glow";
+
+/* Class = "UILabel"; text = "Card:"; ObjectID = "tC4-18-Vcd"; */
+"tC4-18-Vcd.text" = "Card:";
+
+/* Class = "UILabel"; text = "Last Stored Expense:"; ObjectID = "uTD-KS-qRF"; */
+"uTD-KS-qRF.text" = "Last Stored Expense:";
+
+/* Class = "UIButton"; normalTitle = "Deduct Cost"; ObjectID = "vHT-Az-lTI"; */
+"vHT-Az-lTI.normalTitle" = "Deduct Cost";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "vUj-L9-41n"; */
+"vUj-L9-41n.title" = "Cancel";
+
+/* Class = "UILabel"; text = "CostC"; ObjectID = "vmo-DX-AAd"; */
+"vmo-DX-AAd.text" = "CostC";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "xH8-Xh-ZNM"; */
+"xH8-Xh-ZNM.text" = "100%";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "yuw-12-Cb2"; */
+"yuw-12-Cb2.text" = "%";
+
+/* Class = "UIBarButtonItem"; title = "Report"; ObjectID = "z4N-9z-Plx"; */
+"z4N-9z-Plx.title" = "Report";
+
+/* Class = "UILabel"; text = "Select title and icon for each category"; ObjectID = "zTd-WY-Mpa"; */
+"zTd-WY-Mpa.text" = "Select title and icon for each category";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zyy-6O-dQ8"; */
+"zyy-6O-dQ8.text" = "Label";

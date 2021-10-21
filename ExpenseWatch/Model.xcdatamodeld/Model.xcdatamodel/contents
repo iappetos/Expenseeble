@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14315.18" systemVersion="17G65" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ExpenseCore" representedClassName=".ExpenseCore" syncable="YES">
+        <attribute name="cash" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="kind" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="note" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="size" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <entity name="ModeCore" representedClassName=".ModeCore" syncable="YES">
+        <attribute name="salaryOrIncome" optional="YES" attributeType="Boolean" defaultValueString="YES" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <entity name="SalaryCore" representedClassName=".SalaryCore" syncable="YES">
+        <attribute name="sizeOfSalaryCore" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="ExpenseCore" positionX="-401.34765625" positionY="-108.2734375" width="128" height="120"/>
+        <element name="ModeCore" positionX="-212.68359375" positionY="-94.4296875" width="128" height="60"/>
+        <element name="SalaryCore" positionX="-297" positionY="-63" width="128" height="60"/>
+    </elements>
+</model>
